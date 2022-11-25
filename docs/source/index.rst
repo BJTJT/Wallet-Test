@@ -1,4 +1,4 @@
-Welcome to Portkey Test's documentation!
+Welcome to Portkey's documentation!
 ===================================
 
 **Portkey** is an all-in-one wallet designed for assets on aelf blockchain.
@@ -16,14 +16,14 @@ Welcome to Portkey Test's documentation!
    :caption: Help Center
    :maxdepth: 2
    
-     
-.. toctree::
-   Roadmap 
-  
-.. toctree::
-   Links 
-   :maxdepth: 2
+   Extension <Help-Center/Extension/index>
+   App <Help-Center/App/index>
    
+   
+.. toctree::
+   Roadmap
+   Links 
+
+
 .. toctree::  
    Terms of Service <Terms-of-Service/Terms-of-Service>
-   :maxdepth: 1
